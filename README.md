@@ -55,3 +55,17 @@ git status
 ```shell
 git add -A
 ```
+
+* commit, now your repository in your computer will have a new commit.
+replace x without your explanation about this commit, keep the double quotes.
+
+```shell
+git commit -m "x"
+```
+* push to github on the cloud
+
+```shell
+git push
+```
+
+* now your work is both on your computer and on the cloud =) !
